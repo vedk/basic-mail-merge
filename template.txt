@@ -1,0 +1,36 @@
+From: %s
+To: %s
+Subject: Request to work on a project | Web and Coding Club, IIT Bombay
+
+Respected Professor %s,
+
+
+I hope this email finds you in the best of health. I am Ved Khandekar, a convener at the Web and Coding Club (WnCC) of IIT Bombay. The club has been catering to the programming interests of students for 15 years. We have 45+ open-source repositories, our own open-sourced WnCC Wikipedia - Grundy which has 100+ articles. We try to help students experience and explore different domains of CS so that they can discover what excites them the most and pursue a career in the same.
+
+
+I am writing this email to inform you about our initiative Hello-FOSS. Hello-FOSS is an annual event conducted by WnCC as part of the Hacktoberfest to encourage and instil the Open Source development culture in the institute, helping 10,000+ IITB students in making their first contributions and work on a real-life project. 
+
+
+I was particularly very fascinated by your work in the field of %s. I feel these areas are not highly explored by a majority of the undergraduate students of our institute, a lot of the students can get to learn and benefit under your guidance.
+
+
+Therefore, I kindly request you to contribute and add any project which you would like to make open source, and feel can also help the students get a deeper insight into the above mentioned field.
+
+
+This year we have the theme of "Social Good" and we wish to include projects with a social cause linked to them; or projects which, in some way can be used to help others and bring a positive change in our society.
+
+
+If you have further queries regarding Hello-FOSS or WnCC in general, I would be more than happy to attend to your questions. 
+
+
+Regards,
+
+
+Ved Mangesh Khandekar
++91 7038108569
+20d170019@iitb.ac.in
+
+Convener at Web and Coding Club
+
+UG 2nd year at Department of Mechanical Engineering
+IIT Bombay
